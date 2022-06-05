@@ -1,0 +1,38 @@
+/* UIT Student Portal */
+
+/* Team Members
+Syed Shehroz Ali (20B - 084 - SE)
+Syed Hassan Mehboob (20B - 035 - SE)
+Muneeb Humayun (20B - 038 - SE)
+Dua Ali (20B - 095 - SE)
+Tehniyat Fatima (20B - 114 - SE)
+*/
+
+/* Color Palette
+Blue - #051E7A
+Dark Blue - #000E43
+Green - #005246
+Black - #1C1C21
+White - #FFFFFF
+*/
+
+/* Font
+'Roboto'
+*/
+
+#one, #two, #three{
+    border: 2px solid #1c1c2170;
+    border-radius: 25px;
+
+    font-family: 'Roboto';
+    color: #1c1c21;
+
+    margin-left: 20px;
+    margin-top: 15px;
+
+    padding: 20px;
+}
+
+h2, h3, h4{
+    padding: 10px;
+}

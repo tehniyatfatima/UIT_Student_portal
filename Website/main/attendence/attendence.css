@@ -1,0 +1,122 @@
+/* UIT Student Portal */
+
+/* Team Members
+Syed Shehroz Ali (20B - 084 - SE)
+Syed Hassan Mehboob (20B - 035 - SE)
+Muneeb Humayun (20B - 038 - SE)
+Dua Ali (20B - 095 - SE)
+Tehniyat Fatima (20B - 114 - SE)
+*/
+
+/* Color Palette
+Blue - #051E7A
+Dark Blue - #000E43
+Green - #005246
+Black - #1C1C21
+White - #FFFFFF
+*/
+
+/* Font
+'Roboto'
+*/
+
+#content{
+    position: absolute; 
+
+    padding-left: 60px; 
+    padding-top: 3%;
+
+    font-size: 20px;
+    color: #1c1c21;
+}
+
+select option {
+    margin: 40px;
+    background: #1c1c21;
+    color: white;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+  }
+
+  select option[value="PF"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  select option[value="ICT"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  select option[value="AP"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  select option[value="Calculus"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  select option[value="ISL"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  select option[value="Eng"] {
+    background: #1c1c21;
+    color: white;
+  }
+
+  .select_course{
+    margin-left: 210px;
+    margin-top: 34px;
+    position: relative;
+    border-radius:10px;
+    display:inline-block;
+    overflow:hidden;
+  }
+
+  .selectBox{
+    font-size: 15px;
+    font-family: 'Roboto';
+    background-color: #2b2b2b;
+    color: white;
+    width: auto;
+    height:35px;
+    border:2px;
+    outline:none;
+  }
+  
+#pie-chart{
+    width: 50px;
+    height: 50px;
+
+    margin-left: 50px;
+}
+
+#subheading{
+    margin-left:5px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1c1c21;
+
+    padding: 20px;
+    padding-left: 20px;
+
+    border-bottom: 1px solid #1c1c2125;
+}
+
+#details{
+    margin-left: 5px;
+    font-size: 15px;
+    color: #1c1c21;
+
+    padding: 20px;
+    padding-left: 20px;
+}
+
+#content2{
+    border: 2px solid #1c1c2125;
+    border-radius: 25px;
+}

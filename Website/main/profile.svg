@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 50px;fill: #1c1c21;font-weight: 700;font-family: "Roboto-Bold", "Roboto";text-anchor: middle } 
+	</style>
+	<g id="Profile">
+		<path id="Shape 2" class="shp0" d="M257 376C191.19 376 138 322.81 138 257C138 191.19 191.19 138 257 138C322.81 138 376 191.19 376 257C376 322.81 322.81 376 257 376Z" />
+		<text id="PROFILE PHOTO " style="transform: matrix(0.891,0,0,0.891,254.772,248.532)" >
+			<tspan x="0" y="0" class="txt1" dx="0 -2 -2 -2 -2 -2 -2" >PROFILE</tspan>
+			<tspan x="0" y="56" class="txt1" dx="0 -2 -2 -2 -2" >PHOTO</tspan>
+		</text>
+	</g>
+</svg>

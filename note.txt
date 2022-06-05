@@ -1,0 +1,17 @@
+Assalam O Alikum!
+
+While brainstorming for our project of CS114, we five group members, got to know about our Student Portal. No offense intended, but we found the portal to be somewhat basic and lacking necessary stylings. We then took it upon ourselves to design the front end of a fully functional student portal. So with the help of our great course instructor and a little bit of elbow grease, we were able to put together a nice modern and minimalistic site all the while staying true to our institute's original color scheme.
+
+We the students of 20B - SE would love to humbly gift this site to Usman Institute of Technology as a Student Portal App that could be used by all UIT students. The new Portal is specially designed to provide maximum ease and comfort to students while they browse and search for their reports, results, analytics, schedules, announcements, news, etc.
+
+We tried our best to make full use of all potential features of a student portal and thus hope that our efforts were worth it. We also hope and insist that this site, with a few minor tweaks and links to the backend and student database of UIT, could serve as the future student portal on UIT's official website.
+
+Special thanks to our CS114 course instructor Ma'am Hajra Ahmed.
+
+Regards.
+
+SYED SHEHROZ ALI (20B - 084 - SE)
+SYED HASSAN MEHBOOB (20B - 035 - SE)
+MUNEEB HUMAYUN (20B - 038 - SE)
+DUA ALI (20B - 095 - SE)
+TEHNIYAT FATIMA (20B - 114 - SE)
